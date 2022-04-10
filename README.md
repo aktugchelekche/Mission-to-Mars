@@ -1,5 +1,4 @@
 # Mission-to-Mars
-<<<<<<< HEAD
 
 ## Project Overview
 
@@ -14,7 +13,15 @@ In this project ,I am utilizing variety of  web scraping tools to create an app 
 * MongoDB               : Store data for the app. Benefit of using MDB is that it can store data without relationships to other data and store it in JSON format. 
 * HTML                  : Build the index.html.
 * CSS and Bootstrap     : Make the app responsive, user friendly and aesthetic.
-=======
-## Project Overview
-Create a web application with Flask that will capture information regarding Mars them store it in a MongoDB database and display the latest information on a HTML page.
->>>>>>> 5d70ee0178b4f30296c275bc48b06bf483315958
+
+### View From A Desktop
+
+
+<img src= 'https://user-images.githubusercontent.com/98676400/162625665-6818cdc0-123d-4c9a-b779-bf43c9ee0056.png' >
+
+### View From A Mobile Device
+
+
+<p align="center" > 
+<img src='https://user-images.githubusercontent.com/98676400/162625681-28f271d8-e56f-4355-97bd-1d07d47f13f7.png' >
+</p>
